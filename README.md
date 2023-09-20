@@ -2,4 +2,4 @@
 
 This book tracking application allows users to track the books they have read, provide a review of the book, and give it a rating.
 
-<br />This information is stored locally on the device using CoreData
+This information is stored locally on the device using CoreData
